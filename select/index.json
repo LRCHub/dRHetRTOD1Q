@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "It's a Sin",
+  "base_artist": "ペット・ショップ・ボーイズ",
+  "createdAt": "2025-12-16T05:37:33.546291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's a Sin",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/01_It's_a_Sin_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's a Sin - Original Version",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/02_It's_a_Sin_-_Original_Version_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's a Sin",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/03_It's_a_Sin_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's a Sin",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/04_It's_a_Sin_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's a Sin - Barfly Version; 2017 Remastered Version",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/05_It's_a_Sin_-_Barfly_Version;_2017_Remastered_Version_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's A Sin (Barfly Version)",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/06_It's_A_Sin_(Barfly_Version)_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's a Sin (Disco Mix) [2001 Remaster]",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/07_It's_a_Sin_(Disco_Mix)_[2001_Remaster]_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's A Sin (Disco Mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/08_It's_A_Sin_(Disco_Mix)_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's a Sin",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/09_It's_a_Sin_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It’s a Sin",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/10_It’s_a_Sin_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It’s a Sin",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/11_It’s_a_Sin_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It’s a Sin",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/12_It’s_a_Sin_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It’s a Sin (disco mix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/13_It’s_a_Sin_(disco_mix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's a Sin",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/14_It's_a_Sin_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's A Sin",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/15_It's_A_Sin_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's a Sin When You Love Somebody",
+      "artist": "Joe Cocker",
+      "has_synced": false,
+      "path": "select/16_It's_a_Sin_When_You_Love_Somebody_Joe_Cocker.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's a Sin (2018 Remaster)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/17_It's_a_Sin_(2018_Remaster)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's a Sin",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/pl_01_It's_a_Sin_Pet_Shop_Boys.txt"
+    }
+  ]
+}
